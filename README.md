@@ -31,7 +31,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/YOUR_GITHUB_USERNAME/Stroke-Risk-Prediction.git
+git clone https:(https://github.com/YasraNafees/Stroke-Detection-/tree/main)
 cd Stroke-Risk-Prediction
 Install dependencies
 bash
